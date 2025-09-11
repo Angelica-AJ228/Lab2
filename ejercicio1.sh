@@ -37,5 +37,5 @@ fi
 chown "$usu:$grp" "$arch"
 chmod 740 "$arch"
 
-echo "El archivo $arch pertenece a $usu:$grp. El usuario $usu tiene todos los permisos, el grupo $grp solo de lectura. Importante: los demas usuarios no tienen ningun permiso."
+echo "El archivo $arch pertenece a $usu y al grupo $grp. El usuario tiene todos los permisos, el grupo solo de lectura. Importante: los demas usuarios no tienen ningun permiso."
 
