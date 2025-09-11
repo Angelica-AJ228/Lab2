@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+Este es el texto de prueba para el ejercicio 1
+
+
